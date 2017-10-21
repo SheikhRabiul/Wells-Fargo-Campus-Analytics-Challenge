@@ -1,0 +1,51 @@
+masked_id,calculated_gift_value,gift_choice_hints
+1,5.7131, | MUSIC:0.0074 | RETAIL-MISCELLANEOUS:0.0059 | MEDIA:0.0049 | MOVIES:0.0049 | MANUAL:0.0049 | 
+2,5.0, | HOUSES:0.0077 | MAIL-ORDER:0.0058 | SEAFOOD:0.0051 | FISH:0.0051 | TESTING:0.0048 | 
+3,16.3225, | CIVIC:0.0081 | FRATERNAL:0.0081 | TILDEN:0.0079 | ASSOCIATIONS:0.0078 | MARRIAGE:0.0048 | 
+4,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+5,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+6,5.0, | ADVERTISING:0.0119 | BEAUTY:0.006 | FREEDOM:0.006 | TRIANGLE:0.006 | TROPICANA:0.006 | 
+7,5.0, | EXHIBITS:0.0055 | TOURIST:0.0055 | ATTRACTIONS:0.0055 | TENT:0.005 | AWNING:0.005 | 
+8,7.8092,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+9,5.0, | INTERNATIONAL:0.006 | BETTING:0.0055 | DOOR-TO-DOOR:0.0055 | CREMATORIES:0.0054 | FUNERAL:0.0054 | 
+10,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+11,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+12,10.5038, | CALLS:0.0105 | VARNISHES:0.0061 | SUITES:0.0061 | LAUNDRIES:0.0054 | LONG:0.0052 | 
+13,7.9283,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+14,7.5735,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+15,6.6998, | YORK:0.0087 | MASSAGE:0.008 | PARLORS:0.008 | TESTING:0.0056 | DISCOUNT:0.0054 | 
+16,7.1231, | COUNTRY:0.0075 | VETERINARY:0.0067 | PRIVATE:0.0063 | WIG:0.006 | TOUPEE:0.006 | 
+17,9.3202,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+18,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+19,5.0, | CORRESPONDENTS:0.0057 | MORTGAGE:0.0057 | BANKERS:0.0057 | ANTIQUE:0.0053 | SESTORATION:0.0048 | 
+20,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+21,8.7582, | CONTINUITY/SUBSCRIPTION:0.0077 | PRIVATE:0.0048 | BETTING:0.0043 | PETROLEUM:0.0043 | ADVANCE:0.0041 | 
+22,7.443,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+23,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+24,5.6476, | INTERENT:0.0094 | ADVANCE:0.0063 | PRIVATE:0.006 | PETROLEUM:0.0054 | COUNTRY:0.0048 | 
+25,7.4767,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+26,8.4217, | CANADIAN:0.0105 | DOGS:0.0067 | CARS:0.006 | BEAUTY:0.0053 | FLYVESELSKAP:0.0052 | 
+27,5.0531, | DISPENSERS:0.0072 | FUEL:0.0064 | ITEM:0.0057 | AUTOMATED:0.0055 | AEROMEXICO:0.005 | 
+28,6.3321, | CIGAR:0.0063 | THRIFTY:0.006 | TESTING:0.006 | PETROLEUM:0.0053 | LEASING:0.0051 | 
+29,6.4701, | DISBURSEMENTS:0.0086 | AUTOMATED:0.0086 | CAMPS:0.0064 | RETAIL-MISCELLANEOUS:0.0064 | SPAS:0.006 | 
+30,9.2894, | PROVIDER-MONEY:0.007 | PARLORS:0.0057 | HEALTH:0.0057 | PRACTITIONERS:0.0054 | DOOR-TO-DOOR:0.0048 | 
+31,5.2134,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+32,6.2083, | STORAGE:0.007 | CHIROPRACTORS:0.0061 | FUEL:0.0053 | CONSTRUCTION:0.0048 | BETTING:0.0048 | 
+33,6.8409,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+34,11.6005, | SIMMONS:0.0128 | BROKERS/DEALERS:0.0082 | SECURITY:0.0073 | DOOR-TO-DOOR:0.0073 | BOND:0.0065 | 
+35,5.0, | REPLACEMENT:0.0054 | PRACTITIONERS:0.0048 | WIG:0.0046 | TOUPEE:0.0046 | AUTO/HOME:0.0042 | 
+36,8.4459,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+37,8.2758,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+38,11.2257,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+39,8.9639,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+40,8.9214, | MANUAL:0.0042 | DUTY:0.0041 | MARRIAGE:0.0038 | MICROFILM:0.0038 | DEBT:0.0038 | 
+41,5.1387,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+42,5.0, | ROOFING:0.0073 | RETAIL-MISCELLANEOUS:0.006 | TESTING:0.0056 | ENTERPRISE:0.0049 | NONDURABLE:0.0049 | 
+43,7.0732,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+44,5.004, | RADIO:0.0057 | SATELLITE:0.0057 | DAIRY:0.005 | BETTING:0.0047 | ITEM:0.0047 | 
+45,5.0,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+46,7.4919, | DOOR-TO-DOOR:0.016 | HERBALISTS:0.0051 | AGRICULTURAL:0.0045 | COOPERATIVE:0.0045 | MEDIA:0.004 | 
+47,11.7846,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+48,6.2233, | DEBIT:0.0217 | BEST:0.0212 | VENTURE:0.0212 | SIERRA:0.0212 | WESTERN:0.0212 | 
+49,10.8116,"No credit card, a gift based on debit card usage categories (if any) or any gift within the calculated gift value"
+50,5.0, | STORAGE:0.0079 | COLLEGES:0.0052 | PARLORS:0.0043 | MASSAGE:0.0043 | ROOFING:0.0039 | 
